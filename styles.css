@@ -1,0 +1,32 @@
+body{
+    margin:20px;
+    font-family:monospace;
+    background-color: rgb(175, 254, 232);
+}
+.pfp
+{
+    width:auto;
+    height:300px;
+    margin-right: 70px;
+}
+.card{
+    padding:20px;
+    border: 5px dotted rgb(56, 156, 243);
+    display:flex;
+    justify-content: center;
+    width:600px;
+    margin:auto;
+    text-align: center;
+    background-color: rgb(75, 253, 191);
+    font-weight: bold;
+    border-bottom: 5px solid rgb(47, 248, 255);
+    
+}
+.info{
+    color: rgb(29, 73, 64);
+    font-size: large;
+}
+.blueborder{
+    border:5px dotted rgb(56, 156, 243);
+    padding:5px;
+}
